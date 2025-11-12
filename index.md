@@ -6,8 +6,6 @@ title: Ella Johnson
 ## About Me
 
 
-<img src="assets/images/headshot.jpg" width="200" /> 
-
 ![Profile Picture]({{ "assets/images/headshot.jpg" | relative_url }}){:class="profile-image"}
 
 
