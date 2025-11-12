@@ -1,18 +1,15 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Ella Johnson - Portfolio
 permalink: /projects/
 ---
 
-<div class="gallery-container">
-<div class="project-gallery">
-    {% for project in site.projects %}
-      <div class="gallery-item">
-        <a href="{{ project.url | relative_url }}">
-          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
-          <p>{{ project.title}}</p>
-        </a>
-      </div>
-    {% endfor %}
-</div>
-</div>
+[Thermodynamics Project](projects/2025FA-engrd2210.md)
+
+[Fluids Project](projects/2025FA-mae3230.md)
+
+[Mechanics of Materials Project](projects/2025FA-mae3270.md)
+
+![Umbrella](assets/images/umbrella.jpg)
+
+[Umbrella Design Project](projects/2025SP-mae2250.md)

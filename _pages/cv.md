@@ -1,70 +1,59 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Ella Johnson - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV](assets/Resume - Fall 2025.pdf) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [emj67@cornell.edu](mailto:emj67@cornell.edu) | | | **Phone:** +808 688 4942
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Motivated and hardworking Mechanical Engineering student seeking internship opportunities to put classroom knowledge into practice in a real world setting.  
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.2/4.0 | Graduation: May, 2027
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Nile C Kinnick High School**  
+  *High School Honors Diploma*  
+  Graduation: May, 2022
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Autodesk Fusion 360, HyperMesh
+- **Programming:** MATLAB  
+- **Additional:** Technical Writing, Leadership, Communication, Adaptability
 
----
 
-#### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **General Dynamics Electric Boat - Intern**  
+  May - August 2025  
+  - Revise and write multiple technical papers detailing acceptability of design
+  - Perform finite element analysis to verify adequacy of design
+  - Plan and run meetings to kick off and follow up on projects 
 
----
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+Member of Cornell University Big Red Marching and Pep Bands  
+  - 2023 and 2025 Pep Band Social Chair
+  - 2025 Trombone Section Leader 
+
+ 
 
 ---
 
