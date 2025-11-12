@@ -20,6 +20,7 @@ Motivated and hardworking Mechanical Engineering student seeking internship oppo
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
+  *Minor in Theatre*  
   GPA: 3.2/4.0 | Graduation: May, 2027
 
 - **Nile C Kinnick High School**  
