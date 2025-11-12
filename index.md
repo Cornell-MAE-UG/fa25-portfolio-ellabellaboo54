@@ -6,9 +6,8 @@ title: Ella Johnson
 ## About Me
 
 
-<img src="assets/images/headshot.jpg" width="200" />
+<img src="assets/images/headshot.jpg" width="200" /> 
 
- 
 My name is Ella Johnson, and I am a Mechanical Engineering Student at Cornell University. I am interested in structural and fluid mechanics, as well as defense engineering. I have worked at General Dynamics Electric Boat, as a Structural Design and Engineering Intern. 
 
 Take a look at [my projects](pages/projects.md) and [my resume](pages/cv.md)

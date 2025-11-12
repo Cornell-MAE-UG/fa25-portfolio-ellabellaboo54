@@ -10,6 +10,4 @@ permalink: /projects/
 
 [Mechanics of Materials Project](projects/2025FA-mae3270.md)
 
-![Umbrella](assets/images/umbrella.jpg)
-
 [Umbrella Design Project](projects/2025SP-mae2250.md)
