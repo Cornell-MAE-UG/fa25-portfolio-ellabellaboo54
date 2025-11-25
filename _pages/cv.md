@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "assets/Resume - Fall 2025 (4).pdf" | relative_url}}) in PDF format.
+[Download my CV]({{ "assets/Resume.pdf" | relative_url}}) in PDF format.
 
 
 **Email:** [emj67@cornell.edu](mailto:emj67@cornell.edu) | | | **Phone:** +808 688 4942
@@ -41,9 +41,9 @@ Motivated and hardworking Mechanical Engineering student seeking internship oppo
 #### Work Experience
 - **General Dynamics Electric Boat - Intern**  
   May - August 2025  
-  - Revise and write multiple technical papers detailing acceptability of design
-  - Perform finite element analysis to verify adequacy of design
-  - Plan and run meetings to kick off and follow up on projects 
+  - Develop and revise technical calculation reports verifying the adequacy and compliance of engineering designs of new Virginia-class submarine hull and non-pressure hull structural designs
+  - Perform finite element analysis to determine acceptability of designs
+  - Lead effective kickoff and follow-up meetings that establish project goals, track progress, and maintain stakeholder alignment. 
 
 
 
