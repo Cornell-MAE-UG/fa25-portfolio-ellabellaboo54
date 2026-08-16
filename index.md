@@ -9,8 +9,7 @@ title: Ella Johnson
 ![Profile Picture]({{ "assets/images/headshot.jpg" | relative_url }}){:class="profile-image"}
 
 
-My name is Ella Johnson, and I am a Mechanical Engineering Student at Cornell University. I am interested in structural and fluid mechanics, as well as defense engineering. I have worked at General Dynamics Electric Boat, as a Structural Design and Engineering Intern. 
-
+My name is Ella Johnson, and I am a Mechanical Engineering Student at Cornell University. I have had three Design and Engineering Internships at General Dynamics Electric Boat within mechanical and structural engineering departments and have been awarded a SMART Scholarship by the DoW. I am looking for hands on roles where I can expand my design and engineering knowledge.
 
 
 
