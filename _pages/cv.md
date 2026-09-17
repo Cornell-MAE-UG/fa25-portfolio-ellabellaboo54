@@ -8,12 +8,12 @@ permalink: /cv/
 [Download my CV]({{ "assets/Resume - Summer 2026.pdf" | relative_url}}) in PDF format.
 
 
-**Email:** [emj67@cornell.edu](mailto:emj67@cornell.edu) | | | **Phone:** +808 688 4942
+**Email:** [emj67@cornell.edu](mailto:emj67@cornell.edu) | | | **Phone:** +1 808 688 4942
 
 ---
 
 #### Objective
-Motivated and hardworking Mechanical Engineering student seeking design internship opportunities to put classroom knowledge into practice in a real world setting.   
+Motivated and hardworking Mechanical Engineering student seeking design education opportunities to put classroom knowledge into practice in a real world setting.   
 
 ---
 
@@ -38,29 +38,29 @@ Motivated and hardworking Mechanical Engineering student seeking design internsh
 #### Work Experience
 - **Cornell Engineering - Peer Advisor**  
   August 2026 - Present
-  - Lead weekly advising sessions for freshmen
+  - Plan and lead weekly advising seminars covering ways to be successful at college. 
+  - Provide guidance and assistance with the transition to college life, including study skills, class recommendations, and ways to get involved. 
 
-- **General Dynamics Electric Boat - Mechanical Engineering Intern**  
-  June -  August 2026
-  - Update and review technical drawings detailing propulsor components, lifting equipment, and preservation details.
-  - Review vendor-provided information for acceptance of manufactured parts
-  - Write and revise procedures detailing testing, loading, and preservation of components
-  - Learn principles of Geometric Design and Tolerancing
+- **General Dynamics Electric Boat - Design and Engineering Intern**  
+  Summer 2025, Winter 2026, Summer 2026
+  - Developed and revised technical calculation reports verifying the adequacy and compliance of engineering designs of new Virginia-class submarine hull and non-pressure hull structural designs for stakeholder approval. 
+  - Performed finite element analysis to determine structural adequacy of design.
+  - Facilitated  effective kickoff and follow-up meetings that established project goals and methods, tracked progress, and maintained stakeholder alignment.
+  - Reviewed and updated engineering drawings to incorporate changes in requirements and designs for future ships. 
+  - Audited vendor-provided information for acceptance of manufactured parts to maintain quality standards and ensure requirements were met.
+  - Wrote and revised procedures detailing testing, loading, and preservation of components to support manufacturing, transporting, and storing parts prior to assembly. 
+  - Learned principles of Geometric Design and Tolerancing
 
 - **Cornell Mechanical and Aerospance Engineering - Mechanical Design Course Assistant**  
   January - May 2026
-  - Led weekly lab sections and office hours
-  - Provided feedback on student projects
-  - Assisted students with CAD fundamentals
+  - Taught weekly lab sections and held office hours to provide assistance to students that needed clarification of class concepts.
+  - Assisted students with CAD fundamentals to ensure they were able to complete class assignments.
 
-- **General Dynamics Electric Boat - Structural Engineering Intern**  
-  May 2025 - January 2026
-  - Develop and revise technical calculation reports verifying the adequacy and compliance of engineering designs of new Virginia-class submarine hull and non-pressure hull structural designs
-  - Perform finite element analysis to determine acceptability of designs
-  - Lead effective kickoff and follow-up meetings that establish project goals, track progress, and maintain stakeholder alignment. 
-
-
-
+- **Soundview Family YMCA - Lifeguard, Swim Instructor, and Membership Services Representative**
+  January - August 2024
+  - Instructed group and private lessons to swimmers ages 3 to 12  to develop skills and confidence in water. Adapted lesson plans to the needs and temperaments of the students while maintaining curriculum requirements.
+  - Monitored and ensured safety of patrons in water and on pool deck by administering first aid and responding promptly to emergencies. Communicated clearly and effectively to patrons pool rules, safety protocols, and emergency procedures to maintain order and safety.
+  - Acted as an ambassador of all YMCA programs with a focus on membership and member engagement. 
 ---
 
 #### Extracurricular Activities
